@@ -1,1 +1,1 @@
-# books-python-satellite-data-analysis-basic
+# Pythonで学ぶ衛星データ解析基礎
