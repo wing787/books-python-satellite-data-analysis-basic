@@ -1,8 +1,7 @@
 /from_books_support
 .DS_Store
-S2A_MSIL2A_20211113T012911_N0301_R074_T54SUE_20211113T040103.zip
-S2A_MSIL2A_20211113T012911_N0301_R074_T54SUE_20211113T040103.SAFE
-Masked_Tokyo_Bay.jpg
-Masked_Tokyo_Bay.jpg.aux.xml
-Masked_Tokyo_Bay.tif
-Tokyo_Bay.tiff
+*.zip
+*.SAFE
+*.jpg
+*.xml
+*.tif
